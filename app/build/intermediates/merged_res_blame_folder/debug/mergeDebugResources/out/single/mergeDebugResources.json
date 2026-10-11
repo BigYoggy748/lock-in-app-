@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.lockin.dashboard.app-debug-51:/drawable_ic_launcher.png.flat",
+        "source": "com.lockin.dashboard.app-main-53:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.lockin.dashboard.app-debug-51:/drawable_app_logo.png.flat",
+        "source": "com.lockin.dashboard.app-main-53:/drawable/app_logo.png"
+    }
+]
